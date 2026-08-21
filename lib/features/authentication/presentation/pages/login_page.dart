@@ -199,7 +199,7 @@ void initState() {
                       const SizedBox(height: AppSpacing.sm),
 
                       Align(
-                        alignment: Alignment.centerLeft,
+                        alignment: Alignment.centerRight,
                         child: TextButton(
                           onPressed: _forgotPassword,
                           child: const Text(

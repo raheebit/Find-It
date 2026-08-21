@@ -46,6 +46,7 @@ class AppTextField extends StatelessWidget {
         hintText: hint,
         prefixIcon: prefixIcon,
         suffixIcon: suffixIcon,
+        
       ),
     );
   }
